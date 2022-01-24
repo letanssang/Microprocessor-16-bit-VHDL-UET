@@ -1,0 +1,239 @@
+{C:/Final Project/Controller.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/Controller.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity Controller
+-- Compiling architecture controller of Controller
+
+} {} {}} {C:/Final Project/datapath_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/datapath_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity datapath_tb
+-- Compiling architecture datapath_tb of datapath_tb
+
+} {} {}} {C:/Final Project/ALU_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/ALU_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity ALU_tb
+-- Compiling architecture ALU_tb of ALU_tb
+
+} {} {}} {C:/Final Project/mux4to1_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/mux4to1_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity mux4to1_tb
+-- Compiling architecture mux4to1_tb of mux4to1_tb
+
+} {} {}} {C:/Final Project/datapath.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/datapath.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity datapath
+-- Compiling architecture datapath of datapath
+
+} {} {}} {C:/Final Project/dpmem_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/dpmem_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity dpmem_tb
+-- Compiling architecture behavior of dpmem_tb
+
+} {} {}} {C:/Final Project/CPU.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/CPU.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity CPU
+-- Compiling architecture CPU of CPU
+
+} {} {}} {C:/Final Project/Control_unit.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/Control_unit.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity control_unit
+-- Compiling architecture CU of control_unit
+
+} {} {}} {C:/Final Project/RF.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/CPU_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity CPU_tb
+-- Compiling architecture CPU_tb of CPU_tb
+
+} {} {}} {C:/Final Project/Controller_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/Controller_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity Controller_tb
+-- Compiling architecture Controller_tb of Controller_tb
+
+} {} {}} {C:/Final Project/dpmem.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/dpmem.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity dpmem
+-- Compiling architecture dpmem_arch of dpmem
+
+} {} {}} {C:/Final Project/Control_unit_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/Control_unit_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity control_unit_tb
+-- Compiling architecture control_unit_tb of control_unit_tb
+
+} {} {}} {C:/Final Project/RF_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/RF_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity RF_tb
+-- Compiling architecture RF_tb of RF_tb
+
+} {} {}} {C:/Final Project/CPU_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/CPU_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity CPU_tb
+-- Compiling architecture CPU_tb of CPU_tb
+
+} {} {}} {C:/Final Project/Sys_Definition.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/Sys_Definition.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package Sys_Definition
+-- Compiling package body Sys_Definition
+-- Loading package Sys_Definition
+
+} {} {}} {C:/Final Project/IR_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/IR_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity IR_tb
+-- Compiling architecture IR_tb of IR_tb
+
+} {} {}} {C:/Final Project/PC_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/PC_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity PC_tb
+-- Compiling architecture PC_tb of PC_tb
+
+} {} {}} {C:/Final Project/mux4to1.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/mux4to1.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package Sys_Definition
+-- Compiling entity mux4to1
+-- Compiling architecture mux4to1_dataflow of mux4to1
+
+} {} {}} {C:/Final Project/ALU.vhd} {2 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/ALU.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+** Warning: (vcom-6) -- Waiting for lock by "letan@DESKTOP-BUHNAAM, pid = 18420
+". Lockfile is "C:/Final Project/work/_lock".
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity RF
+-- Compiling architecture RF of RF
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity ALU
+-- Compiling architecture ALU of ALU
+
+} {} {}} {C:/Final Project/PC.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/PC.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity PC
+-- Compiling architecture PC1 of PC
+
+} {} {}} {C:/Final Project/IR.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Final Project/IR.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Sys_Definition
+-- Compiling entity IR
+-- Compiling architecture IR1 of IR
+
+} {} {}}
